@@ -1,5 +1,3 @@
-根据您的要求，已将这段 Shell 流水线注释转换为适用于 GitHub 仓库的 Markdown 格式。内容包含安装、变量配置及运行命令示例，可直接用于 `README.md`。
-
 ```markdown
 # EffectorP Fungal Usage Pipeline
 
